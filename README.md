@@ -5,5 +5,10 @@
 This is an HTML CSS challenge to make a QR code for front-end training.
 
 ### Link
+
+- Solution URL: [Add solution URL here](https://addabenkoceir13.github.io/qr-code-component/)
+
+  ### Screenshot
 ؤ
-![image](https://github.com/addabenkoceir13/qr-code-component/assets/64089992/8aa062fd-433d-413f-86cc-3fd4e1593555)
+![image](https://github.com/addabenkoceir13/qr-code-component/assets/64089992/5d80cd4d-bc6c-420e-92d3-3b1e55a70f7d)
+
