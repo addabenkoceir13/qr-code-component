@@ -12,3 +12,6 @@ This is an HTML CSS challenge to make a QR code for front-end training.
 ؤ
 ![image](https://github.com/addabenkoceir13/qr-code-component/assets/64089992/5d80cd4d-bc6c-420e-92d3-3b1e55a70f7d)
 
+
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+
